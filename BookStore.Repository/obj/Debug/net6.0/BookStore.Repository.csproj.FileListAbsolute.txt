@@ -1,0 +1,30 @@
+E:\New\taTVAsoft inter\dot net\bookstore\BookStore\BookStore.Repository\bin\Debug\net6.0\BookStore.Repository.deps.json
+E:\New\taTVAsoft inter\dot net\bookstore\BookStore\BookStore.Repository\bin\Debug\net6.0\BookStore.Repository.dll
+E:\New\taTVAsoft inter\dot net\bookstore\BookStore\BookStore.Repository\bin\Debug\net6.0\BookStore.Repository.pdb
+E:\New\taTVAsoft inter\dot net\bookstore\BookStore\BookStore.Repository\bin\Debug\net6.0\BookStore.Model.dll
+E:\New\taTVAsoft inter\dot net\bookstore\BookStore\BookStore.Repository\bin\Debug\net6.0\BookStore.Model.pdb
+E:\New\taTVAsoft inter\dot net\bookstore\BookStore\BookStore.Repository\obj\Debug\net6.0\BookStore.Repository.csproj.AssemblyReference.cache
+E:\New\taTVAsoft inter\dot net\bookstore\BookStore\BookStore.Repository\obj\Debug\net6.0\BookStore.Repository.GeneratedMSBuildEditorConfig.editorconfig
+E:\New\taTVAsoft inter\dot net\bookstore\BookStore\BookStore.Repository\obj\Debug\net6.0\BookStore.Repository.AssemblyInfoInputs.cache
+E:\New\taTVAsoft inter\dot net\bookstore\BookStore\BookStore.Repository\obj\Debug\net6.0\BookStore.Repository.AssemblyInfo.cs
+E:\New\taTVAsoft inter\dot net\bookstore\BookStore\BookStore.Repository\obj\Debug\net6.0\BookStore.Repository.csproj.CoreCompileInputs.cache
+E:\New\taTVAsoft inter\dot net\bookstore\BookStore\BookStore.Repository\obj\Debug\net6.0\BookStore.Repository.csproj.CopyComplete
+E:\New\taTVAsoft inter\dot net\bookstore\BookStore\BookStore.Repository\obj\Debug\net6.0\BookStore.Repository.dll
+E:\New\taTVAsoft inter\dot net\bookstore\BookStore\BookStore.Repository\obj\Debug\net6.0\refint\BookStore.Repository.dll
+E:\New\taTVAsoft inter\dot net\bookstore\BookStore\BookStore.Repository\obj\Debug\net6.0\BookStore.Repository.pdb
+E:\New\taTVAsoft inter\dot net\bookstore\BookStore\BookStore.Repository\obj\Debug\net6.0\ref\BookStore.Repository.dll
+E:\New\taTVAsoft inter\dot net\bookstore backend\bookStore\BookStore.Repository\bin\Debug\net6.0\BookStore.Repository.deps.json
+E:\New\taTVAsoft inter\dot net\bookstore backend\bookStore\BookStore.Repository\bin\Debug\net6.0\BookStore.Repository.dll
+E:\New\taTVAsoft inter\dot net\bookstore backend\bookStore\BookStore.Repository\bin\Debug\net6.0\BookStore.Repository.pdb
+E:\New\taTVAsoft inter\dot net\bookstore backend\bookStore\BookStore.Repository\bin\Debug\net6.0\BookStore.Model.dll
+E:\New\taTVAsoft inter\dot net\bookstore backend\bookStore\BookStore.Repository\bin\Debug\net6.0\BookStore.Model.pdb
+E:\New\taTVAsoft inter\dot net\bookstore backend\bookStore\BookStore.Repository\obj\Debug\net6.0\BookStore.Repository.csproj.AssemblyReference.cache
+E:\New\taTVAsoft inter\dot net\bookstore backend\bookStore\BookStore.Repository\obj\Debug\net6.0\BookStore.Repository.GeneratedMSBuildEditorConfig.editorconfig
+E:\New\taTVAsoft inter\dot net\bookstore backend\bookStore\BookStore.Repository\obj\Debug\net6.0\BookStore.Repository.AssemblyInfoInputs.cache
+E:\New\taTVAsoft inter\dot net\bookstore backend\bookStore\BookStore.Repository\obj\Debug\net6.0\BookStore.Repository.AssemblyInfo.cs
+E:\New\taTVAsoft inter\dot net\bookstore backend\bookStore\BookStore.Repository\obj\Debug\net6.0\BookStore.Repository.csproj.CoreCompileInputs.cache
+E:\New\taTVAsoft inter\dot net\bookstore backend\bookStore\BookStore.Repository\obj\Debug\net6.0\BookStore.Repository.csproj.CopyComplete
+E:\New\taTVAsoft inter\dot net\bookstore backend\bookStore\BookStore.Repository\obj\Debug\net6.0\BookStore.Repository.dll
+E:\New\taTVAsoft inter\dot net\bookstore backend\bookStore\BookStore.Repository\obj\Debug\net6.0\refint\BookStore.Repository.dll
+E:\New\taTVAsoft inter\dot net\bookstore backend\bookStore\BookStore.Repository\obj\Debug\net6.0\BookStore.Repository.pdb
+E:\New\taTVAsoft inter\dot net\bookstore backend\bookStore\BookStore.Repository\obj\Debug\net6.0\ref\BookStore.Repository.dll

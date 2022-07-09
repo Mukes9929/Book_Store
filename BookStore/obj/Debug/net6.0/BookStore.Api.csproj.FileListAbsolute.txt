@@ -1,0 +1,82 @@
+E:\New\taTVAsoft inter\dot net\bookstore\BookStore\BookStore\bin\Debug\net6.0\appsettings.Development.json
+E:\New\taTVAsoft inter\dot net\bookstore\BookStore\BookStore\bin\Debug\net6.0\appsettings.json
+E:\New\taTVAsoft inter\dot net\bookstore\BookStore\BookStore\bin\Debug\net6.0\BookStore.Api.exe
+E:\New\taTVAsoft inter\dot net\bookstore\BookStore\BookStore\bin\Debug\net6.0\BookStore.Api.deps.json
+E:\New\taTVAsoft inter\dot net\bookstore\BookStore\BookStore\bin\Debug\net6.0\BookStore.Api.runtimeconfig.json
+E:\New\taTVAsoft inter\dot net\bookstore\BookStore\BookStore\bin\Debug\net6.0\BookStore.Api.dll
+E:\New\taTVAsoft inter\dot net\bookstore\BookStore\BookStore\bin\Debug\net6.0\BookStore.Api.pdb
+E:\New\taTVAsoft inter\dot net\bookstore\BookStore\BookStore\bin\Debug\net6.0\Humanizer.dll
+E:\New\taTVAsoft inter\dot net\bookstore\BookStore\BookStore\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\New\taTVAsoft inter\dot net\bookstore\BookStore\BookStore\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\New\taTVAsoft inter\dot net\bookstore\BookStore\BookStore\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\New\taTVAsoft inter\dot net\bookstore\BookStore\BookStore\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\New\taTVAsoft inter\dot net\bookstore\BookStore\BookStore\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+E:\New\taTVAsoft inter\dot net\bookstore\BookStore\BookStore\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\New\taTVAsoft inter\dot net\bookstore\BookStore\BookStore\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\New\taTVAsoft inter\dot net\bookstore\BookStore\BookStore\bin\Debug\net6.0\Npgsql.dll
+E:\New\taTVAsoft inter\dot net\bookstore\BookStore\BookStore\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+E:\New\taTVAsoft inter\dot net\bookstore\BookStore\BookStore\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.Design.dll
+E:\New\taTVAsoft inter\dot net\bookstore\BookStore\BookStore\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\New\taTVAsoft inter\dot net\bookstore\BookStore\BookStore\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\New\taTVAsoft inter\dot net\bookstore\BookStore\BookStore\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\New\taTVAsoft inter\dot net\bookstore\BookStore\BookStore\bin\Debug\net6.0\BookStore.Model.dll
+E:\New\taTVAsoft inter\dot net\bookstore\BookStore\BookStore\bin\Debug\net6.0\BookStore.Repository.dll
+E:\New\taTVAsoft inter\dot net\bookstore\BookStore\BookStore\bin\Debug\net6.0\BookStore.Model.pdb
+E:\New\taTVAsoft inter\dot net\bookstore\BookStore\BookStore\bin\Debug\net6.0\BookStore.Repository.pdb
+E:\New\taTVAsoft inter\dot net\bookstore\BookStore\BookStore\obj\Debug\net6.0\BookStore.Api.csproj.AssemblyReference.cache
+E:\New\taTVAsoft inter\dot net\bookstore\BookStore\BookStore\obj\Debug\net6.0\BookStore.Api.GeneratedMSBuildEditorConfig.editorconfig
+E:\New\taTVAsoft inter\dot net\bookstore\BookStore\BookStore\obj\Debug\net6.0\BookStore.Api.AssemblyInfoInputs.cache
+E:\New\taTVAsoft inter\dot net\bookstore\BookStore\BookStore\obj\Debug\net6.0\BookStore.Api.AssemblyInfo.cs
+E:\New\taTVAsoft inter\dot net\bookstore\BookStore\BookStore\obj\Debug\net6.0\BookStore.Api.csproj.CoreCompileInputs.cache
+E:\New\taTVAsoft inter\dot net\bookstore\BookStore\BookStore\obj\Debug\net6.0\BookStore.Api.MvcApplicationPartsAssemblyInfo.cache
+E:\New\taTVAsoft inter\dot net\bookstore\BookStore\BookStore\obj\Debug\net6.0\staticwebassets.build.json
+E:\New\taTVAsoft inter\dot net\bookstore\BookStore\BookStore\obj\Debug\net6.0\staticwebassets.development.json
+E:\New\taTVAsoft inter\dot net\bookstore\BookStore\BookStore\obj\Debug\net6.0\scopedcss\bundle\BookStore.Api.styles.css
+E:\New\taTVAsoft inter\dot net\bookstore\BookStore\BookStore\obj\Debug\net6.0\BookStore.Api.csproj.CopyComplete
+E:\New\taTVAsoft inter\dot net\bookstore\BookStore\BookStore\obj\Debug\net6.0\BookStore.Api.dll
+E:\New\taTVAsoft inter\dot net\bookstore\BookStore\BookStore\obj\Debug\net6.0\refint\BookStore.Api.dll
+E:\New\taTVAsoft inter\dot net\bookstore\BookStore\BookStore\obj\Debug\net6.0\BookStore.Api.pdb
+E:\New\taTVAsoft inter\dot net\bookstore\BookStore\BookStore\obj\Debug\net6.0\BookStore.Api.genruntimeconfig.cache
+E:\New\taTVAsoft inter\dot net\bookstore\BookStore\BookStore\obj\Debug\net6.0\ref\BookStore.Api.dll
+E:\New\taTVAsoft inter\dot net\bookstore\BookStore\BookStore\obj\Debug\net6.0\BookStore.Api.MvcApplicationPartsAssemblyInfo.cs
+E:\New\taTVAsoft inter\dot net\bookstore backend\bookStore\BookStore\bin\Debug\net6.0\appsettings.Development.json
+E:\New\taTVAsoft inter\dot net\bookstore backend\bookStore\BookStore\bin\Debug\net6.0\appsettings.json
+E:\New\taTVAsoft inter\dot net\bookstore backend\bookStore\BookStore\bin\Debug\net6.0\BookStore.Api.exe
+E:\New\taTVAsoft inter\dot net\bookstore backend\bookStore\BookStore\bin\Debug\net6.0\BookStore.Api.deps.json
+E:\New\taTVAsoft inter\dot net\bookstore backend\bookStore\BookStore\bin\Debug\net6.0\BookStore.Api.runtimeconfig.json
+E:\New\taTVAsoft inter\dot net\bookstore backend\bookStore\BookStore\bin\Debug\net6.0\BookStore.Api.dll
+E:\New\taTVAsoft inter\dot net\bookstore backend\bookStore\BookStore\bin\Debug\net6.0\BookStore.Api.pdb
+E:\New\taTVAsoft inter\dot net\bookstore backend\bookStore\BookStore\bin\Debug\net6.0\Humanizer.dll
+E:\New\taTVAsoft inter\dot net\bookstore backend\bookStore\BookStore\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\New\taTVAsoft inter\dot net\bookstore backend\bookStore\BookStore\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\New\taTVAsoft inter\dot net\bookstore backend\bookStore\BookStore\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\New\taTVAsoft inter\dot net\bookstore backend\bookStore\BookStore\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\New\taTVAsoft inter\dot net\bookstore backend\bookStore\BookStore\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+E:\New\taTVAsoft inter\dot net\bookstore backend\bookStore\BookStore\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\New\taTVAsoft inter\dot net\bookstore backend\bookStore\BookStore\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\New\taTVAsoft inter\dot net\bookstore backend\bookStore\BookStore\bin\Debug\net6.0\Npgsql.dll
+E:\New\taTVAsoft inter\dot net\bookstore backend\bookStore\BookStore\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+E:\New\taTVAsoft inter\dot net\bookstore backend\bookStore\BookStore\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.Design.dll
+E:\New\taTVAsoft inter\dot net\bookstore backend\bookStore\BookStore\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\New\taTVAsoft inter\dot net\bookstore backend\bookStore\BookStore\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\New\taTVAsoft inter\dot net\bookstore backend\bookStore\BookStore\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\New\taTVAsoft inter\dot net\bookstore backend\bookStore\BookStore\bin\Debug\net6.0\BookStore.Model.dll
+E:\New\taTVAsoft inter\dot net\bookstore backend\bookStore\BookStore\bin\Debug\net6.0\BookStore.Repository.dll
+E:\New\taTVAsoft inter\dot net\bookstore backend\bookStore\BookStore\bin\Debug\net6.0\BookStore.Model.pdb
+E:\New\taTVAsoft inter\dot net\bookstore backend\bookStore\BookStore\bin\Debug\net6.0\BookStore.Repository.pdb
+E:\New\taTVAsoft inter\dot net\bookstore backend\bookStore\BookStore\obj\Debug\net6.0\BookStore.Api.csproj.AssemblyReference.cache
+E:\New\taTVAsoft inter\dot net\bookstore backend\bookStore\BookStore\obj\Debug\net6.0\BookStore.Api.GeneratedMSBuildEditorConfig.editorconfig
+E:\New\taTVAsoft inter\dot net\bookstore backend\bookStore\BookStore\obj\Debug\net6.0\BookStore.Api.AssemblyInfoInputs.cache
+E:\New\taTVAsoft inter\dot net\bookstore backend\bookStore\BookStore\obj\Debug\net6.0\BookStore.Api.AssemblyInfo.cs
+E:\New\taTVAsoft inter\dot net\bookstore backend\bookStore\BookStore\obj\Debug\net6.0\BookStore.Api.csproj.CoreCompileInputs.cache
+E:\New\taTVAsoft inter\dot net\bookstore backend\bookStore\BookStore\obj\Debug\net6.0\BookStore.Api.MvcApplicationPartsAssemblyInfo.cache
+E:\New\taTVAsoft inter\dot net\bookstore backend\bookStore\BookStore\obj\Debug\net6.0\staticwebassets.build.json
+E:\New\taTVAsoft inter\dot net\bookstore backend\bookStore\BookStore\obj\Debug\net6.0\staticwebassets.development.json
+E:\New\taTVAsoft inter\dot net\bookstore backend\bookStore\BookStore\obj\Debug\net6.0\scopedcss\bundle\BookStore.Api.styles.css
+E:\New\taTVAsoft inter\dot net\bookstore backend\bookStore\BookStore\obj\Debug\net6.0\BookStore.Api.csproj.CopyComplete
+E:\New\taTVAsoft inter\dot net\bookstore backend\bookStore\BookStore\obj\Debug\net6.0\BookStore.Api.dll
+E:\New\taTVAsoft inter\dot net\bookstore backend\bookStore\BookStore\obj\Debug\net6.0\refint\BookStore.Api.dll
+E:\New\taTVAsoft inter\dot net\bookstore backend\bookStore\BookStore\obj\Debug\net6.0\BookStore.Api.pdb
+E:\New\taTVAsoft inter\dot net\bookstore backend\bookStore\BookStore\obj\Debug\net6.0\BookStore.Api.genruntimeconfig.cache
+E:\New\taTVAsoft inter\dot net\bookstore backend\bookStore\BookStore\obj\Debug\net6.0\ref\BookStore.Api.dll
+E:\New\taTVAsoft inter\dot net\bookstore backend\bookStore\BookStore\obj\Debug\net6.0\BookStore.Api.MvcApplicationPartsAssemblyInfo.cs

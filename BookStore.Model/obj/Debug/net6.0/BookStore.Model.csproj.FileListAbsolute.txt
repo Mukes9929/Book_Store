@@ -1,0 +1,28 @@
+E:\New\taTVAsoft inter\dot net\bookstore\BookStore\BookStore.Model\bin\Debug\net6.0\BookStore.Model.deps.json
+E:\New\taTVAsoft inter\dot net\bookstore\BookStore\BookStore.Model\bin\Debug\net6.0\BookStore.Model.runtimeconfig.json
+E:\New\taTVAsoft inter\dot net\bookstore\BookStore\BookStore.Model\bin\Debug\net6.0\BookStore.Model.dll
+E:\New\taTVAsoft inter\dot net\bookstore\BookStore\BookStore.Model\bin\Debug\net6.0\BookStore.Model.pdb
+E:\New\taTVAsoft inter\dot net\bookstore\BookStore\BookStore.Model\obj\Debug\net6.0\BookStore.Model.csproj.AssemblyReference.cache
+E:\New\taTVAsoft inter\dot net\bookstore\BookStore\BookStore.Model\obj\Debug\net6.0\BookStore.Model.GeneratedMSBuildEditorConfig.editorconfig
+E:\New\taTVAsoft inter\dot net\bookstore\BookStore\BookStore.Model\obj\Debug\net6.0\BookStore.Model.AssemblyInfoInputs.cache
+E:\New\taTVAsoft inter\dot net\bookstore\BookStore\BookStore.Model\obj\Debug\net6.0\BookStore.Model.AssemblyInfo.cs
+E:\New\taTVAsoft inter\dot net\bookstore\BookStore\BookStore.Model\obj\Debug\net6.0\BookStore.Model.csproj.CoreCompileInputs.cache
+E:\New\taTVAsoft inter\dot net\bookstore\BookStore\BookStore.Model\obj\Debug\net6.0\BookStore.Model.dll
+E:\New\taTVAsoft inter\dot net\bookstore\BookStore\BookStore.Model\obj\Debug\net6.0\refint\BookStore.Model.dll
+E:\New\taTVAsoft inter\dot net\bookstore\BookStore\BookStore.Model\obj\Debug\net6.0\BookStore.Model.pdb
+E:\New\taTVAsoft inter\dot net\bookstore\BookStore\BookStore.Model\obj\Debug\net6.0\BookStore.Model.genruntimeconfig.cache
+E:\New\taTVAsoft inter\dot net\bookstore\BookStore\BookStore.Model\obj\Debug\net6.0\ref\BookStore.Model.dll
+E:\New\taTVAsoft inter\dot net\bookstore backend\bookStore\BookStore.Model\bin\Debug\net6.0\BookStore.Model.deps.json
+E:\New\taTVAsoft inter\dot net\bookstore backend\bookStore\BookStore.Model\bin\Debug\net6.0\BookStore.Model.runtimeconfig.json
+E:\New\taTVAsoft inter\dot net\bookstore backend\bookStore\BookStore.Model\bin\Debug\net6.0\BookStore.Model.dll
+E:\New\taTVAsoft inter\dot net\bookstore backend\bookStore\BookStore.Model\bin\Debug\net6.0\BookStore.Model.pdb
+E:\New\taTVAsoft inter\dot net\bookstore backend\bookStore\BookStore.Model\obj\Debug\net6.0\BookStore.Model.csproj.AssemblyReference.cache
+E:\New\taTVAsoft inter\dot net\bookstore backend\bookStore\BookStore.Model\obj\Debug\net6.0\BookStore.Model.GeneratedMSBuildEditorConfig.editorconfig
+E:\New\taTVAsoft inter\dot net\bookstore backend\bookStore\BookStore.Model\obj\Debug\net6.0\BookStore.Model.AssemblyInfoInputs.cache
+E:\New\taTVAsoft inter\dot net\bookstore backend\bookStore\BookStore.Model\obj\Debug\net6.0\BookStore.Model.AssemblyInfo.cs
+E:\New\taTVAsoft inter\dot net\bookstore backend\bookStore\BookStore.Model\obj\Debug\net6.0\BookStore.Model.csproj.CoreCompileInputs.cache
+E:\New\taTVAsoft inter\dot net\bookstore backend\bookStore\BookStore.Model\obj\Debug\net6.0\BookStore.Model.dll
+E:\New\taTVAsoft inter\dot net\bookstore backend\bookStore\BookStore.Model\obj\Debug\net6.0\refint\BookStore.Model.dll
+E:\New\taTVAsoft inter\dot net\bookstore backend\bookStore\BookStore.Model\obj\Debug\net6.0\BookStore.Model.pdb
+E:\New\taTVAsoft inter\dot net\bookstore backend\bookStore\BookStore.Model\obj\Debug\net6.0\BookStore.Model.genruntimeconfig.cache
+E:\New\taTVAsoft inter\dot net\bookstore backend\bookStore\BookStore.Model\obj\Debug\net6.0\ref\BookStore.Model.dll
